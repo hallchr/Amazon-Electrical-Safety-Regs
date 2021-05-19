@@ -77,7 +77,7 @@ nms3 <- names(AllServices)
 
 ui <- fluidPage(
   
-  headerPanel("Data"),
+  headerPanel("Amazon Live Servicing Regulations"),
   sidebarPanel(
     #sliderInput('sampleSize', 'Sample Size', min = 1, max = nrow(AllCountsAmbient3),
     #value = 1000, step = 50, round = 0),
